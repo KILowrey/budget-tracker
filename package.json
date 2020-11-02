@@ -4,7 +4,10 @@
   "description": "Bootcamp week 18 HW",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite-server": "lite-server",
+    "deploy": "git push origin main & git push heroku main"
   },
   "repository": {
     "type": "git",
