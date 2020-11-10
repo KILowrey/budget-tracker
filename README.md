@@ -5,7 +5,9 @@ Bootcamp week 18 HW
 
 [Deployed app on Heroku](https://sleepy-scrubland-71149.herokuapp.com/)
 
-[description and images]
+This is a budget tracker provided by Triology Education, meant to be eddited into a PWA (progressive web app). 
+
+![budget tracker with budget entries and subtracktions](./documentation/capture.PNG)
 
 ## Installation
 
