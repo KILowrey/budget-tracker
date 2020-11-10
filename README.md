@@ -1,15 +1,6 @@
 # Budget Tracker
 Bootcamp week 18 HW
 
-
-
-## Table of Contents
- * [Description](#description)
- * [Installation](#installation)
- * [Usage](#usage)
- * [Credits](#credits)
- * [License](#license)
-
 ## Description
 
 [Deployed app on Heroku](https://sleepy-scrubland-71149.herokuapp.com/)
@@ -18,11 +9,13 @@ Bootcamp week 18 HW
 
 ## Installation
 
-[installation instructions for PWAs]
+You can use this app in the browser or install it onto your device as a progressive web app.
+
+[How to install a progressive web app](https://support.google.com/chrome/answer/9658361?co=GENIE.Platform%3DDesktop&hl=en)
 
 ## Usage
 
-[usage information]
+This app is for educational perposes only. Please do not enter your actual information.
 
 ## Credits
 
